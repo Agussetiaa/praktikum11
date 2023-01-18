@@ -34,4 +34,7 @@ Untuk menampilkan daftar pakcage yang terinstal
 ## Contoh Pengguna
 ![gambar](gambar/5.png)
 
+## Contoh Latihan
+![gambar](gambar/6.png)
+
 - Selesai
