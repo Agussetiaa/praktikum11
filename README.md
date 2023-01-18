@@ -35,8 +35,8 @@ pip install beautifulsoup4
 ```
 ![gambar](gambar/4.png)
 
-Untuk menampilkan daftar pakcage yang terinstal
 ## Contoh Pengguna
+Untuk menampilkan daftar pakcage yang terinstal
 ![gambar](gambar/5.png)
 
 ## Contoh Latihan
