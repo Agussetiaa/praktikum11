@@ -26,7 +26,7 @@ untuk menginstall pandas request hanya perlu mengetik di terminal python anda se
 ```
 pip install pandas
 ```
-![gambar]gambar/3.png)
+![gambar](gambar/3.png)
 
 ## Install Library beautifulsoup
 untuk menginstall beautifulsoup request hanya perlu mengetik di terminal python anda seperti ini
