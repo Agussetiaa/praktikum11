@@ -42,4 +42,7 @@ Untuk menampilkan daftar pakcage yang terinstal
 ## Contoh Latihan
 ![gambar](gambar/6.png)
 
+## hasil latihan
+![gambar](gambar/7.png)
+
 - Selesai
