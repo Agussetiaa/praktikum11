@@ -4,6 +4,7 @@ Untuk melakukan scraping web kita memerlukan beberapa library dalam pyhton, dian
 
 ## pip --version
 untuk melihat versi PIP yang terinstal
+
 ![gambar](gambar/0.png)
 
 ## Install Library Request
