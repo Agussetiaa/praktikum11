@@ -1,5 +1,5 @@
 # praktikum11 
-# - Scraping Web
+# Scraping Web
 Untuk melakukan scraping web kita memerlukan beberapa library dalam pyhton, diantaranya adalah request, bs4, pandas, dan beautifulsoup
 
 ## pip --version
@@ -45,4 +45,4 @@ Untuk menampilkan daftar pakcage yang terinstal
 ## hasil latihan
 ![gambar](gambar/7.png)
 
-- Selesai
+- # Selesai
