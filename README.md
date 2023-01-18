@@ -1,5 +1,5 @@
 # praktikum11 
-# Scraping Web
+# - Scraping Web
 Untuk melakukan scraping web kita memerlukan beberapa library dalam pyhton, diantaranya adalah request, bs4, pandas, dan beautifulsoup
 
 ## pip --version
@@ -10,7 +10,7 @@ untuk melihat versi PIP yang terinstal
 ## Install Library Request
 untuk menginstall library request hanya perlu mengetik di terminal python anda seperti ini
 ```
-pip install request
+pip install requests
 ```
 ![gambar](gambar/1.png)
 
